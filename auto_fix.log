@@ -1,0 +1,71 @@
+2025-11-16 00:58:12,121 - INFO - Starting auto-fix routine
+2025-11-16 00:58:12,121 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/app.py.20251116_005812.bak
+2025-11-16 00:58:12,121 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/requirements.txt to /Users/giuseppealehandrolemuel/apps/my_api/backups/requirements.txt.20251116_005812.bak
+2025-11-16 00:58:12,121 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/test_app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/test_app.py.20251116_005812.bak
+2025-11-16 00:58:12,121 - ERROR - Error checking dependencies: No module named 'pkg_resources'
+2025-11-16 00:58:12,121 - ERROR - Dependency check failed
+2025-11-16 00:58:12,189 - INFO - Starting auto-fix routine
+2025-11-16 00:58:12,189 - INFO - Auto-fix monitoring started
+2025-11-16 00:58:12,189 - INFO - App imported successfully
+2025-11-16 00:58:12,190 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/app.py.20251116_005812.bak
+2025-11-16 00:58:12,191 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/requirements.txt to /Users/giuseppealehandrolemuel/apps/my_api/backups/requirements.txt.20251116_005812.bak
+2025-11-16 00:58:12,191 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/test_app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/test_app.py.20251116_005812.bak
+2025-11-16 00:58:12,191 - ERROR - Error checking dependencies: No module named 'pkg_resources'
+2025-11-16 00:58:12,191 - ERROR - Dependency check failed
+2025-11-16 00:58:12,193 - INFO - App imported successfully
+2025-11-16 00:58:13,282 - INFO - All tests passed
+2025-11-16 00:58:13,282 - INFO - Memory usage: 51.02 MB
+2025-11-16 00:58:13,282 - INFO - Auto-fix routine completed
+2025-11-16 00:58:13,293 - INFO - All tests passed
+2025-11-16 00:58:13,293 - INFO - Memory usage: 51.02 MB
+2025-11-16 00:58:13,293 - INFO - Auto-fix routine completed
+2025-11-16 00:58:17,895 - INFO - Starting auto-fix routine
+2025-11-16 00:58:17,895 - INFO - Auto-fix monitoring started
+2025-11-16 00:58:17,896 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/app.py.20251116_005817.bak
+2025-11-16 00:58:17,896 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/requirements.txt to /Users/giuseppealehandrolemuel/apps/my_api/backups/requirements.txt.20251116_005817.bak
+2025-11-16 00:58:17,899 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/test_app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/test_app.py.20251116_005817.bak
+2025-11-16 00:58:17,899 - ERROR - Error checking dependencies: No module named 'pkg_resources'
+2025-11-16 00:58:17,899 - ERROR - Dependency check failed
+2025-11-16 00:58:17,911 - INFO - Starting auto-fix routine
+2025-11-16 00:58:17,912 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/app.py.20251116_005817.bak
+2025-11-16 00:58:17,912 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/requirements.txt to /Users/giuseppealehandrolemuel/apps/my_api/backups/requirements.txt.20251116_005817.bak
+2025-11-16 00:58:17,912 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/test_app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/test_app.py.20251116_005817.bak
+2025-11-16 00:58:17,912 - ERROR - Error checking dependencies: No module named 'pkg_resources'
+2025-11-16 00:58:17,912 - ERROR - Dependency check failed
+2025-11-16 00:58:17,916 - INFO - Auto-fix monitoring started
+2025-11-16 00:58:17,916 - INFO - App imported successfully
+2025-11-16 00:58:17,917 - INFO - App imported successfully
+2025-11-16 00:58:17,952 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-16 00:58:17,952 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-16 00:58:17,952 - INFO -  * Restarting with stat
+2025-11-16 00:58:18,248 - INFO - Starting auto-fix routine
+2025-11-16 00:58:18,248 - INFO - Auto-fix monitoring started
+2025-11-16 00:58:18,248 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/app.py.20251116_005818.bak
+2025-11-16 00:58:18,248 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/requirements.txt to /Users/giuseppealehandrolemuel/apps/my_api/backups/requirements.txt.20251116_005818.bak
+2025-11-16 00:58:18,249 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/test_app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/test_app.py.20251116_005818.bak
+2025-11-16 00:58:18,249 - ERROR - Error checking dependencies: No module named 'pkg_resources'
+2025-11-16 00:58:18,249 - ERROR - Dependency check failed
+2025-11-16 00:58:18,262 - INFO - Starting auto-fix routine
+2025-11-16 00:58:18,262 - INFO - Auto-fix monitoring started
+2025-11-16 00:58:18,265 - INFO - App imported successfully
+2025-11-16 00:58:18,268 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/app.py.20251116_005818.bak
+2025-11-16 00:58:18,269 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/requirements.txt to /Users/giuseppealehandrolemuel/apps/my_api/backups/requirements.txt.20251116_005818.bak
+2025-11-16 00:58:18,269 - INFO - Backed up /Users/giuseppealehandrolemuel/apps/my_api/test_app.py to /Users/giuseppealehandrolemuel/apps/my_api/backups/test_app.py.20251116_005818.bak
+2025-11-16 00:58:18,270 - ERROR - Error checking dependencies: No module named 'pkg_resources'
+2025-11-16 00:58:18,270 - ERROR - Dependency check failed
+2025-11-16 00:58:18,275 - INFO - App imported successfully
+2025-11-16 00:58:18,294 - WARNING -  * Debugger is active!
+2025-11-16 00:58:18,315 - INFO -  * Debugger PIN: 750-306-222
+2025-11-16 00:58:21,738 - INFO - All tests passed
+2025-11-16 00:58:21,739 - INFO - Memory usage: 37.48 MB
+2025-11-16 00:58:21,739 - INFO - Auto-fix routine completed
+2025-11-16 00:58:21,740 - INFO - All tests passed
+2025-11-16 00:58:21,740 - INFO - Memory usage: 37.62 MB
+2025-11-16 00:58:21,740 - INFO - Auto-fix routine completed
+2025-11-16 00:58:22,644 - INFO - All tests passed
+2025-11-16 00:58:22,645 - INFO - Memory usage: 45.12 MB
+2025-11-16 00:58:22,645 - INFO - Auto-fix routine completed
+2025-11-16 00:58:22,694 - INFO - All tests passed
+2025-11-16 00:58:22,694 - INFO - Memory usage: 45.19 MB
+2025-11-16 00:58:22,694 - INFO - Auto-fix routine completed
